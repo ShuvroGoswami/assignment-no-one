@@ -261,7 +261,7 @@ margin-top: 25px;
     border: solid gray;
     background-color: white;
     border-radius: 20px;
-    background-image: url(/assets/quote-bg.png);
+    background-image: url(../assets/quote-bg.png);
     background-repeat: no-repeat;
     background-position: 2% 0%;
     background-position-y: 5%;
@@ -317,6 +317,7 @@ margin-top: 25px;
     text-align: center;
     justify-content: space-evenly;
     background-color: white;
+    
     margin: 40px;
 }
 .bd{
