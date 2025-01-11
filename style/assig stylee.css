@@ -250,3 +250,91 @@ margin-top: 25px;
     color: white;
 }
 .btn-done:hover{background-color: #1973e052;}
+
+/* yunus */
+
+.yunus{
+    width: 83%;
+    height: 30%;
+    margin: 0 auto;
+    padding: 19px;
+    border: solid gray;
+    background-color: white;
+    border-radius: 20px;
+    background-image: url(/assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 2% 0%;
+    background-position-y: 5%;
+    
+}
+/* Subscribe-box */
+.Subscribe-box{
+    width: 83%;
+    height: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 19px;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+}
+
+.Subscribe-box-title{
+    text-align: center;
+    padding: 20px 200px; 
+    margin: 10px;
+    margin-bottom: 30px;
+    gap:none;
+}
+
+.email{
+    width: 500px;
+    height: 35px;
+    border-radius: 5px 0px 0px 5px;
+    border: solid white;
+
+}
+
+.Subscribe{
+    width: 80px;
+    height: 42px; 
+    color: white;
+    background-color: #006A50;
+    border: solid #006A50;
+    border-radius: 0px 5px 5px 0px;
+}
+.Subscribe:hover{background-color: #1973e052;}
+.input{
+    gap:none;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    
+}
+/* last container */
+.last-container{
+    height: 200px;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: white;
+    margin: 40px;
+}
+.bd{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.h{
+    width: 70%;
+}
+
+.logo{
+    padding-top: 30px;
+}
+.logo1{
+padding-right: 30px;
+    
+}
+.logo2{
+    padding-right: 30px;
+}
