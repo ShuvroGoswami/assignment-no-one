@@ -17,6 +17,7 @@ body{
     border: solid #006A50;
     border-radius: 8px;
 }
+.sign-in:hover{background-color: #1973e052;}
 
 .container{
     display: flex;
@@ -114,12 +115,15 @@ text-align: justify;
 .btn1{
 background-color: #5490F5;
 }
+.btn1:hover{background-color: #1973e052;}
 .btn2{
 background-color: #09A15C;
 }
+.btn2:hover{background-color: #1973e052;}
 .btn3{
 background-color: #FFC239;
 }
+.btn3:hover{background-color: #1973e052;}
 
 
 /*  container-3 */
@@ -151,6 +155,9 @@ gap: 20px
     border-radius: 8px;
     font-weight: 600;
     border: solid #006A50;
+}
+.btn-satellite:hover{
+    background-color: #1973e052;
 }
 
 .container4-box{
@@ -185,45 +192,47 @@ margin-top: 25px;
 }
 
 
-.box-tk1{border: solid white;
-    background-color: white;
-    padding: 30px 50px; 
-    border-radius: 8px;
-    font-weight: 600;
-}
-.box-tk2{
+.box-tk1{
+    
     border: solid white;
     background-color: white;
-    padding: 30px 50px; 
+    padding: 30px 40px; 
     border-radius: 8px;
     font-weight: 600;
+    
+}
+.box-tk1:hover{background-color: #1973e052;}
+.box-tk2{
+    border: solid rgba(128, 128, 128, 0.584);
+    background-color: #47dc97;
+    padding: 30px 40px; 
+    border-radius: 8px;
+    font-weight: 600;
+    
+}
+.box-tk2:hover{
+    background-color: #1973e052;
 }
 .box-tk3{
     border: solid white;
     background-color: white;
-    padding: 30px 50px; 
+    padding: 30px 40px; 
     border-radius: 8px;
     font-weight: 600;
 }
+.box-tk3:hover{background-color: #1973e052;}
+
 
 .box-tk4{
     border: solid white;
     background-color: white;
-    padding: 30px 50px; 
+    padding: 30px 40px; 
     border-radius: 8px;
     font-weight: 600;
 }
+.box-tk4:hover{background-color: #1973e052;}
 
-.fild{
-    /* text-align: center;
-    /* border: solid white; */
-    /* background-color: white; */
-    /* margin: 0 auto;
-    color: white;
-    padding: 5px 10px; 
-    border-radius: 8px;
-    font-weight: 600; */
-}
+
 .fild2{
     text-align: center;
     width: 730px;
@@ -240,3 +249,4 @@ margin-top: 25px;
     background-color: #006A50;
     color: white;
 }
+.btn-done:hover{background-color: #1973e052;}
