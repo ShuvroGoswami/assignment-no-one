@@ -120,3 +120,46 @@ background-color: #09A15C;
 .btn3{
 background-color: #FFC239;
 }
+
+
+/*  container-3 */
+.satellite-container{
+    margin: 0 auto;
+padding: 40px 80px ; 
+text-align: justify;
+}
+
+
+.container3-box{
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    margin: 0 auto;
+padding: 40px 20px ; 
+/* text-align: justify; */
+gap: 20px
+
+}
+.container3-box, img{
+    border-radius: 20px;
+}
+
+.btn-satellite{
+    background-color: #006A50;
+    color: white;
+    padding: 8px 10px; 
+    border-radius: 8px;
+    font-weight: 600;
+    border: solid #006A50;
+}
+
+.container4-box{
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    margin: 0 auto;
+padding: 40px 20px ; 
+/* text-align: justify; */
+gap: 20px;
+margin-top: 25px;
+}
